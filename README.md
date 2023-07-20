@@ -1,8 +1,15 @@
 # soundcloud
 
+## link
+## https://bilgesoundvue.netlify.app/
+
 ## Project setup
 ```
 npm install
+```
+## Add vuetify
+```
+npm add vuetify
 ```
 
 ### Compiles and hot-reloads for development
